@@ -2,7 +2,7 @@
 
 
 <h2>Description</h2>
-Project consists of using an Advanced Package Tool (APT) and sudo to install and uninstall applications in a Linux Bash shell
+Project consists of using an Advanced Package Tool (APT) and sudo to install and uninstall applications in a Linux Bash shell.
 <br />
 
 
